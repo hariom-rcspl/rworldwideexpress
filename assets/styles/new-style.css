@@ -11,6 +11,13 @@ a{
     border-bottom: 1px solid rgb(236, 236, 236);
 }
 
+.nav-logo{
+    width: 120px;
+    margin-top: -30px;
+    border-radius: 2px;
+    mix-blend-mode: multiply;
+}
+
 .carousel-item img{
     width: 100%;
     height: 400px;
